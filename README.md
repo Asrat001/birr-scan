@@ -108,5 +108,5 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-* **Email:** [[your-email@example.com](mailto:your-email@example.com)]
-* **Developer Name:** [Your Name or Company Name]
+* **Email:** [[asratadane169@gmail.com](mailto:your-email@example.com)]
+* **Developer Name:** [Asrat Adane]
