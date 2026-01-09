@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Last updated:** [DATE]
+**Last updated:** [2026/1/9]
 
 This Privacy Policy describes how **[Birr Sacn]** ("we", "our", or "us") collects, uses, and protects information when you use our mobile application.
 
